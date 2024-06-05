@@ -35,7 +35,7 @@ export const ORTHOGRAPHY = [
   'ii',
   'ts',
   'ü',
-  'ñ,
+  'ñ',
   "č",
   'ŋ',
   'ð',
